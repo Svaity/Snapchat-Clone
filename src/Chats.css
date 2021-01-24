@@ -74,6 +74,7 @@
   left: calc(50% - 20px);
   transform: (-50%, -50%);
   cursor: pointer;
+  margin-bottom: 25px;
 }
 
 .chats__takePicIcon:hover {
